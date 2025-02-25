@@ -1,0 +1,5 @@
+{
+    "telegram_bot_token": "YOUR_BOT_TOKEN_HERE",
+    "fl_api_key": "YOUR_FIRSTLEDGER_API_KEY",
+    "xrp_wallet": "YOUR_XRP_WALLET_ADDRESS"
+} 
